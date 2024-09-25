@@ -1,4 +1,4 @@
-## [👋](https://mega2223.github.io/opengl)
+[👋](https://mega2223.github.io/opengl)
 
 <!--
 **Mega2223/Mega2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
