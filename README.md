@@ -1,4 +1,9 @@
-[👋](https://mega2223.github.io/opengl)
+# Olá :)[👋](https://mega2223.github.io/opengl)
+
+Eu me chamo Júlio, sou um programador e atualmente sou discente do Bacharelado de Ciências da Computação na Universidade Federal do ABC (UFABC).
+A grande maioria dos meus projetos são open source e estão aqui no meu GitHub. Meus projetos variam bastante de finalidade.
+
+### [Meu portifólio](https://mega2223.github.io/)
 
 <!--
 **Mega2223/Mega2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
