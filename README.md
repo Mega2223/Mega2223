@@ -7,7 +7,7 @@ A grande maioria dos meus projetos são open source e estão aqui no meu GitHub.
 
 # 
      
-[<img src="Screenshot_1857.png">](https://github.com/Mega2223/AguaEngine3D/)
+[<img src="https://github.com/Mega2223/Mega2223.github.io/blob/main/media/WorldGenDemo.gif?raw=true">](https://github.com/Mega2223/AguaEngine3D/)
 
 <!--
 **Mega2223/Mega2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
