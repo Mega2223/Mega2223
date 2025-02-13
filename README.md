@@ -1,7 +1,7 @@
 # Olá :)[👋](https://mega2223.github.io/opengl)
 
 Eu me chamo Júlio, sou um programador e atualmente sou discente do Bacharelado de Ciências da Computação na Universidade Federal do ABC (UFABC).
-A grande maioria dos meus projetos são open source e estão aqui no meu GitHub. Meus projetos variam bastante de finalidade.
+A grande maioria dos meus projetos são open source e estão aqui no meu GitHub.
 
 ### [Meu portifólio](https://mega2223.github.io/)   
 
