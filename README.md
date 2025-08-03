@@ -6,9 +6,8 @@ A grande maioria dos meus projetos são open source e estão aqui no meu GitHub.
 ### [Meu portifólio](https://mega2223.github.io/)   
 
 # 
-
-<img width="1366" height="705" alt="2025-07-23_21 42 34" src="https://github.com/user-attachments/assets/bc9e8875-fda3-4b5a-9f84-106abc7f7715" />
-
+     
+[<img src="https://github.com/Mega2223/Mega2223.github.io/blob/main/media/WorldGenDemo.gif?raw=true">](https://github.com/Mega2223/AguaEngine3D/)
 
 <!--
 **Mega2223/Mega2223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
