@@ -1,9 +1,9 @@
 # Olá :)[👋](https://mega2223.github.io/opengl)
 
-Eu me chamo Júlio, sou programador desde 2018 e atualmente sou discente do Bacharelado de Ciências da Computação na Universidade Federal do ABC (UFABC).
+Eu me chamo Júlio, sou programador desde 2018 e desde 2023 sou discente do Bacharelado de Ciências da Computação na Universidade Federal do ABC (UFABC).
 A grande maioria dos meus projetos são open source e estão aqui no meu GitHub.
 
-### [Meu portifólio](https://mega2223.github.io/)   
+### [Meu site](https://mega2223.github.io/)   
 
 # 
      
